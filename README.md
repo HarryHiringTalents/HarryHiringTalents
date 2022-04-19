@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hari
 - 👀 I’m interested in Technical Hiring
 - 🌱 I’m currently working with SaaS product company Kovai.co
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to... hire game changing engineers
 - 📫 How to reach me ... hariprasath.moorthy@kovai.co
 - .Net core , Angular , Azure
 
