@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with SaaS product company Kovai.co
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ... hariprasath.moorthy@kovai.co
- .net core , Angular , Azure
+- .Net core , Angular , Azure
 
 
 <!---
